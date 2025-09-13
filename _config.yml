@@ -26,23 +26,25 @@ author:
   avatar           : "profile.png"
   name             : "Z R Bhuiyan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An Independent Thinker, Researcher, Writer"
+  location         : "Bangladesh"
+  employer         : "North South University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "concern.zrb@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-7838-5322"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  linkedin         : "https://linkedin.com/in/z-rb"
+  facebook         : "https://www.facebook.com/share/1Fh66tYWtA/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
