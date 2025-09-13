@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Z R Bhuiyan"
+  name             : "Z R B"
   pronouns         : # example: "she/her"  
   bio              : "An Independent Thinker, Researcher, Writer"
   location         : "Bangladesh"
@@ -43,29 +43,29 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  linkedin         : "https://linkedin.com/in/z-rb"
-  facebook         : "https://www.facebook.com/share/1Fh66tYWtA/"
+  linkedin         : #"https://linkedin.com/in/z-rb"
+  facebook         : #"https://www.facebook.com/share/1Fh66tYWtA/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : 1Fh66tYWtA
+  flickr           : z_rb
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : z-rb
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
