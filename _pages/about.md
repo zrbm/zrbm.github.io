@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Z R B"
+title: "About Z R Bhuiyan"
 author_profile: true
 redirect_from: 
   - /about/
