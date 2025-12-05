@@ -17,6 +17,10 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
+    
+  - title: "LIVE CV"
+    url: /files/ZRB-live-cv-lu-nov-25-v14.pdf
+
   - title: "Articles (Unpublished)"
     url: /portfolio/
 
@@ -26,9 +30,7 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "LIVE CV"
-    url: /files/ZRB-live-cv-lu-nov-25-v14.pdf
+
 
   - title: "LIVE Resume"
     url: /files/ZRB-live-resume-lu-dec-25-v1.pdf
