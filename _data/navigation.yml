@@ -21,11 +21,11 @@ main:
   - title: "LIVE CV"
     url: /files/ZRB-live-cv-lu-dec-25-v15.pdf
 
-  - title: "Articles (Unpublished)"
-    url: /portfolio/
-
   - title: "Visual Graphic Degins (Unpublished)"
     url: /files/current-up-visuals.pdf
+
+  - title: "Articles (Unpublished)"
+    url: /portfolio/
 
 
   #  url: /files/dengue.pdf
