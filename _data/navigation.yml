@@ -19,7 +19,7 @@ main:
     
     
   - title: "LIVE CV"
-    url: /files/ZRB-live-cv-lu-dec-25-v18.pdf
+    url: /files/ZRB-live-cv.pdf
 
   - title: "Visual Graphic Degins (Published)"
     url: /files/current-published-visuals.pdf
@@ -39,7 +39,7 @@ main:
   #  url: /year-archive/
 
 
-  - title: "LIVE Resume"
+  #- title: "LIVE Resume"
     url: /files/ZRB-live-resume-lu-dec-25-v1.pdf
 
     
