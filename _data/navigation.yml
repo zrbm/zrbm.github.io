@@ -18,14 +18,18 @@ main:
   #  url: /teaching/    
     
     
-  - title: "LIVE CV"
-    url: /files/ZRB-live-cv.pdf
+  #- title: "LIVE CV"
+  #  url: /files/ZRB-live-cv.pdf
 
   - title: "Visual Graphic Degins (Published)"
     url: /files/current-published-visuals.pdf
 
   - title: "Visual Graphic Degins (Unpublished)"
     url: /files/current-up-visuals.pdf
+  
+  - title: "Video Format Degins (Published)"
+    url: /files/video-published.pdf
+
 
   - title: "Articles (Unpublished)"
     url: /portfolio/
