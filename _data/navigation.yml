@@ -18,8 +18,8 @@ main:
   #  url: /teaching/    
     
     
-  #- title: "LIVE CV"
-  #  url: /files/ZRB-live-cv.pdf
+  - title: "LIVE CV"
+    url: /files/ZRB-live-cv.pdf
 
   - title: "Visual Graphic Design (Published)"
     url: /files/current-published-visuals.pdf
