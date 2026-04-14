@@ -21,18 +21,18 @@ main:
   - title: "LIVE CV"
     url: /files/ZRB-live-cv.pdf
 
-  - title: "Visual Graphic Design (Published)"
-    url: /files/current-published-visuals.pdf
+  #- title: "Visual Graphic Design (Published)"
+  #  url: /files/current-published-visuals.pdf
 
-  - title: "Visual Graphic Design (Unpublished)"
-    url: /files/current-up-visuals.pdf
+  #- title: "Visual Graphic Design (Unpublished)"
+  #  url: /files/current-up-visuals.pdf
   
-  - title: "Video Format Design (Published)"
-    url: /files/video-published.pdf
+  #- title: "Video Format Design (Published)"
+  #  url: /files/video-published.pdf
 
 
-  - title: "Articles (Unpublished)"
-    url: /portfolio/
+  #- title: "Articles (Unpublished)"
+  #  url: /portfolio/
 
 
   #  url: /files/dengue.pdf
